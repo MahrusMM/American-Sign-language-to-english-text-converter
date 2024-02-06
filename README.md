@@ -12,6 +12,7 @@ Utilizes OpenCV (cv2) library for real-time video capture and image processing.
 Implements a hand detection algorithm using the HandTrackingModule from the cvzone library.
 Detects the user's hand signs from the live video feed captured by the webcam.
 Processes the hand region to extract relevant features for classification.
+
 Sign Language Translation:
 
 Employs a pre-trained deep learning model (possibly using Keras) for classification of hand gestures.
