@@ -1,0 +1,12 @@
+Libraries required:
+OpenCV (cv2)
+cvzone
+NumPy (numpy)
+Tkinter (usually comes pre-installed with Python)
+Keras (keras)
+
+Install libraries using the following:
+pip install opencv-python
+pip install cvzone
+pip install numpy
+pip install keras
